@@ -1,1 +1,19 @@
-# angular
+# Angular - Kert Tamm 1.tunnitöö
+
+GITHUB demo link: https://github.com/egertpiksar/Angular
+
+installda kõige viimasem node.js versioon: https://nodejs.org/en/
+
+**npm install -g @angular/cli**
+
+**ng new minuapp**
+
+stylesheetiks sai valitud CSS
+
+tuleb minna vastavasse kausta kuhu angular app sai paigaldatud
+
+**cd minuapp**
+
+**ng serve --open**
+
+kui kõik on õigesti tehtud siis peaks compilimise lõpuks avanema leht automaatselt aadressiga http://localhost:4200/
