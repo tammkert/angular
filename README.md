@@ -1,5 +1,7 @@
 # Angular - Kert Tamm 1.tunnitöö
 
+<img src="naide1.png" width="350" title="projektipilt1">
+
 GITHUB demo link: https://github.com/egertpiksar/Angular
 
 installda kõige viimasem node.js versioon: https://nodejs.org/en/
