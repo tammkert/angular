@@ -19,3 +19,5 @@ tuleb minna vastavasse kausta kuhu angular app sai paigaldatud
 **ng serve --open**
 
 kui kõik on õigesti tehtud siis peaks compilimise lõpuks avanema leht automaatselt aadressiga http://localhost:4200/
+
+**NB! enne githubi üleslaadimist lisada .gitignore faili vastavad angular gitignore’d et ei laetaks üles paarsada mb angulari enda faile**
