@@ -8,6 +8,8 @@ installida kõige viimasem node.js versioon: https://nodejs.org/en/
 
 **npm install -g @angular/cli**
 
+**npm install --save-dev @angular-devkit/build-angular
+
 **ng new minuapp**
 
 stylesheetiks sai valitud CSS
