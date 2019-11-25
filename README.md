@@ -4,7 +4,7 @@
 
 GITHUB demo link: https://github.com/egertpiksar/Angular
 
-installda kõige viimasem node.js versioon: https://nodejs.org/en/
+installida kõige viimasem node.js versioon: https://nodejs.org/en/
 
 **npm install -g @angular/cli**
 
